@@ -1,4 +1,4 @@
-# Monitoring CPU temperature of Windows with Zabbix 3.4
+# Monitoring CPU temperature of Windows hosts with Zabbix 3.4
 
 This tutorial was based on [Myopsblog](https://myopsblog.wordpress.com/2016/06/06/cpu-temperature-monitoring-with-zabbix/) that is a translate of original post on [Habr](https://habr.com/post/228095/).
 
